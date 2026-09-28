@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#f8fafc"/>
+<text x="600" y="45" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#111827">Campus Coin — User Flow</text>
+<g font-family="Arial" font-size="17" fill="#111827" text-anchor="middle">
+<rect x="470" y="75" width="260" height="60" rx="14" fill="#ffffff" stroke="#4f46e5" stroke-width="2"/><text x="600" y="112">Public Website</text>
+<rect x="170" y="190" width="240" height="70" rx="14" fill="#ffffff" stroke="#10b981" stroke-width="2"/><text x="290" y="220">Student Login / Register</text><text x="290" y="244" font-size="13">Dashboard</text>
+<rect x="790" y="190" width="240" height="70" rx="14" fill="#ffffff" stroke="#f59e0b" stroke-width="2"/><text x="910" y="220">Admin Login</text><text x="910" y="244" font-size="13">Control Center</text>
+<rect x="80" y="340" width="210" height="62" rx="12" fill="#ffffff" stroke="#10b981"/><text x="185" y="378">Transactions</text>
+<rect x="320" y="340" width="210" height="62" rx="12" fill="#ffffff" stroke="#10b981"/><text x="425" y="378">Budgets</text>
+<rect x="560" y="340" width="210" height="62" rx="12" fill="#ffffff" stroke="#10b981"/><text x="665" y="378">Reports & Insights</text>
+<rect x="800" y="340" width="210" height="62" rx="12" fill="#ffffff" stroke="#10b981"/><text x="905" y="378">Tips & Bookmarks</text>
+<rect x="390" y="475" width="420" height="62" rx="12" fill="#ffffff" stroke="#4f46e5"/><text x="600" y="513">Notifications • Settings • Export</text>
+</g>
+<g stroke="#64748b" stroke-width="2" fill="none">
+<path d="M600 135 L290 190"/><path d="M600 135 L910 190"/>
+<path d="M290 260 L185 340"/><path d="M290 260 L425 340"/><path d="M290 260 L665 340"/><path d="M290 260 L905 340"/>
+<path d="M185 402 L600 475"/><path d="M425 402 L600 475"/><path d="M665 402 L600 475"/><path d="M905 402 L600 475"/>
+</g>
+</svg>
