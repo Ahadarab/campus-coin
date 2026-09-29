@@ -2,7 +2,7 @@
  * Campus Coin - Unified API Client
  */
 
-const BASE_URL = 'https://happy-planes-mate.loca.lt/api';
+const BASE_URL = '/api';
 
 const getHeaders = (isUpload = false) => {
   const token = localStorage.getItem('campus_coin_token');
